@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,300&display=swap');
+
 .rickroll
 {
     background-color: #00ace6;
-    color: #83252d;
+    color: #b8006b;
+    font-size: large;
+    font-family: Poppins;
 }
