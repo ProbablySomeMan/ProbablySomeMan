@@ -12,10 +12,11 @@
 .whatever
 {
     color: #b8006b;
-    position:fixed;
+    position:sticky;
 }
 
 .rickastley
 {
     height: 200vh;
+    position: sticky;
 }
