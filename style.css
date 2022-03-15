@@ -2,6 +2,7 @@
 
 .rickroll
 {
+    position: absolute;
     background-color: #00ace6;
     color: #ffffff;
     font-size: large;
@@ -11,6 +12,7 @@
 .whatever
 {
     color: #b8006b;
+    position:fixed;
 }
 
 .rickastley
