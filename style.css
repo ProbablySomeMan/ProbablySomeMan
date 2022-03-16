@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,300&display=swap');
 
+h2 
+{
+    font-size: 28px;
+}
+
 .rickroll
 {
     position: absolute;
@@ -19,4 +24,10 @@
 {
     height: 200vh;
     position: sticky;
+}
+
+.img
+{
+    width: 150px;
+    height: 150px;
 }
