@@ -2,6 +2,7 @@
 
 h2 
 {
+    font-family: poppins;
     font-size: 28px;
 }
 
@@ -26,8 +27,12 @@ h2
     position: sticky;
 }
 
-.img
+.rickimg
 {
     width: 150px;
     height: 150px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border: 8px solid #b8006b;
+    padding: 15px;
 }
